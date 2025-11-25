@@ -23,7 +23,7 @@ El accuracy puede ser alto en datasets muy desbalanceados aunque el modelo casi 
 
 4. Explica qué es overfitting.
 Es cuando el modelo aprende demasiado bien los patrones y el ruido del conjunto de entrenamiento.
-Consigue muy buen desempeño en train, pero generaliza mal a datos nuevos (test/producción).
+Consigue muy buen desempeño en train, pero generaliza mal a datos nuevos como los del test o produccion.
 
 
 
