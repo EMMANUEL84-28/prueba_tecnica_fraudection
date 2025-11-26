@@ -29,7 +29,7 @@ Consigue muy buen desempeño en train, pero generaliza mal a datos nuevos como l
 ## SECCIÓN 2 – Ejercicio práctico (Python)
 
 Se utilizó el notebook technical_test.ipynb para ejecutar el análisis. Los datos se cargaron desde un CSV (mules_dataset.csv). Para asegurar que las librerías necesarias estuvieran disponibles, se creó un ambiente virtual y se instalaron las dependencias indicadas en el proyecto.
-```
+
 
 2.4 Métricas del modelo en el conjunto de test:
 
@@ -52,7 +52,7 @@ En resumen, según los datos y el comportamiento de las cuentas, las más sospec
 
 
 
-## SECCIÓN 3 – Análisis
+## SECCIÓN 3 – Analisis
 
 3.1. Si el modelo genera muchas alertas pero detecta pocas cuentas mula reales, ¿qué ajustarías?
 Ajustaría el umbral de decisión para que solo las cuentas con alta probabilidad sean marcadas como “mula”.
